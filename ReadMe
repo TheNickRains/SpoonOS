@@ -1,4 +1,5 @@
-# SpoonOS
+#SpoonOS
+
 Multi-Agent Telephony using the SpoonOS for multi-agent orchestration, collaboration, and tool calling.
 
 The core primitive is utilizing a mulit-agent framework to abstact away the user interface. The core UX is voice and telephany. The code should be viewed as successful if the user is able to accomplish a task in the phyical world via a multi-agent digital system. Such a task could be contextually aware, concierge services such as as making a reservation, placing a take out order. Although it is 'technically feesible' to have the agent handle payments, at this time the infrastructure is not where it needs to be for the agent to offramp funds to merchants, because of this we are stripping the objective to its core components, telemetry, voice, and objective aqucuisition.
